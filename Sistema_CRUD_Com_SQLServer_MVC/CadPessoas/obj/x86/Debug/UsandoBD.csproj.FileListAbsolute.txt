@@ -1,0 +1,24 @@
+C:\Users\André Bessa\Desktop\UsandoBD\UsandoBD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\André Bessa\Desktop\UsandoBD\UsandoBD\obj\x86\Debug\UsandoBD.Form1.resources
+C:\Users\André Bessa\Desktop\UsandoBD\UsandoBD\obj\x86\Debug\UsandoBD.Properties.Resources.resources
+C:\Users\André Bessa\Desktop\UsandoBD\UsandoBD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\André Bessa\Desktop\UsandoBD\UsandoBD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\André Bessa\Desktop\UsandoBD\UsandoBD\bin\Debug\UsandoBD.exe
+C:\Users\André Bessa\Desktop\UsandoBD\UsandoBD\bin\Debug\UsandoBD.pdb
+C:\Users\André Bessa\Desktop\UsandoBD\UsandoBD\obj\x86\Debug\UsandoBD.exe
+C:\Users\André Bessa\Desktop\UsandoBD\UsandoBD\obj\x86\Debug\UsandoBD.pdb
+C:\Users\André Bessa\Documents\Aulas 2013\Implementação e Testes de Sistemas\Aula14\UsandoBD\UsandoBD\obj\x86\Debug\UsandoBD.exe
+C:\Users\André Bessa\Documents\Aulas 2013\Implementação e Testes de Sistemas\Aula14\UsandoBD\UsandoBD\obj\x86\Debug\UsandoBD.pdb
+C:\Users\André Bessa\Documents\Aulas 2013\Implementação e Testes de Sistemas\Aula14\UsandoBD\UsandoBD\bin\Debug\UsandoBD.exe
+C:\Users\André Bessa\Documents\Aulas 2013\Implementação e Testes de Sistemas\Aula14\UsandoBD\UsandoBD\bin\Debug\UsandoBD.pdb
+C:\Users\André Bessa\Documents\Aulas 2013\Implementação e Testes de Sistemas\Aula14\UsandoBD\UsandoBD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\André Bessa\Documents\Aulas 2013\Implementação e Testes de Sistemas\Aula14\UsandoBD\UsandoBD\obj\x86\Debug\UsandoBD.Properties.Resources.resources
+C:\Users\André Bessa\Documents\Aulas 2013\Implementação e Testes de Sistemas\Aula14\UsandoBD\UsandoBD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\André Bessa\Documents\Aulas 2013\Implementação e Testes de Sistemas\Aula14\UsandoBD\UsandoBD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\André Bessa\Documents\Aulas 2013\Implementação e Testes de Sistemas\Aula14\UsandoBD\UsandoBD\obj\x86\Debug\UsandoBD.cadPessoa.resources
+C:\Users\André Bessa\Documents\Aulas 2013\Implementação e Testes de Sistemas\Aula14\UsandoBD\UsandoBD\obj\x86\Debug\UsandoBD.Principal.resources
+C:\Users\André Bessa\Documents\Aulas 2013\Implementação e Testes de Sistemas\Aula14\UsandoBD\UsandoBD\obj\x86\Debug\UsandoBD.delPessoa.resources
+C:\Users\André Bessa\Documents\Aulas 2013\Implementação e Testes de Sistemas\Aula14\UsandoBD\UsandoBD\obj\x86\Debug\UsandoBD.updPessoa.resources
+C:\Users\André Bessa\Documents\Aulas 2013\Implementação e Testes de Sistemas\Aula14\UsandoBD\UsandoBD\obj\x86\Debug\UsandoBD.selPessoa.resources
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\25-05\Aula14\UsandoBD\UsandoBD\obj\x86\Debug\UsandoBD.exe
+C:\Users\Andre Bessa\Documents\MULTIVIX - CACHOEIRO\2017-1\5º Período\Linguagem de Programação II\25-05\Aula14\UsandoBD\UsandoBD\obj\x86\Debug\UsandoBD.pdb
