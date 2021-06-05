@@ -1,0 +1,18 @@
+c:\users\lab-cachoeiro\documents\visual studio 2015\Projects\AGENDAMENTO\AGENDAMENTO\bin\Debug\AGENDAMENTO.exe.config
+c:\users\lab-cachoeiro\documents\visual studio 2015\Projects\AGENDAMENTO\AGENDAMENTO\bin\Debug\AGENDAMENTO.exe
+c:\users\lab-cachoeiro\documents\visual studio 2015\Projects\AGENDAMENTO\AGENDAMENTO\bin\Debug\AGENDAMENTO.pdb
+c:\users\lab-cachoeiro\documents\visual studio 2015\Projects\AGENDAMENTO\AGENDAMENTO\obj\Debug\AGENDAMENTO.csprojResolveAssemblyReference.cache
+c:\users\lab-cachoeiro\documents\visual studio 2015\Projects\AGENDAMENTO\AGENDAMENTO\obj\Debug\AGENDAMENTO.Form1.resources
+c:\users\lab-cachoeiro\documents\visual studio 2015\Projects\AGENDAMENTO\AGENDAMENTO\obj\Debug\AGENDAMENTO.Properties.Resources.resources
+c:\users\lab-cachoeiro\documents\visual studio 2015\Projects\AGENDAMENTO\AGENDAMENTO\obj\Debug\AGENDAMENTO.csproj.GenerateResource.Cache
+c:\users\lab-cachoeiro\documents\visual studio 2015\Projects\AGENDAMENTO\AGENDAMENTO\obj\Debug\AGENDAMENTO.exe
+c:\users\lab-cachoeiro\documents\visual studio 2015\Projects\AGENDAMENTO\AGENDAMENTO\obj\Debug\AGENDAMENTO.pdb
+E:\Sistemas de Informação\5º Período\Linguagem de Programação II\2º Bimestre\AGENDAMENTO(Trabalho LPII - Leitura de dados em .txt)\AGENDAMENTO\bin\Debug\AGENDAMENTO.exe.config
+E:\Sistemas de Informação\5º Período\Linguagem de Programação II\2º Bimestre\AGENDAMENTO(Trabalho LPII - Leitura de dados em .txt)\AGENDAMENTO\bin\Debug\AGENDAMENTO.exe
+E:\Sistemas de Informação\5º Período\Linguagem de Programação II\2º Bimestre\AGENDAMENTO(Trabalho LPII - Leitura de dados em .txt)\AGENDAMENTO\bin\Debug\AGENDAMENTO.pdb
+E:\Sistemas de Informação\5º Período\Linguagem de Programação II\2º Bimestre\AGENDAMENTO(Trabalho LPII - Leitura de dados em .txt)\AGENDAMENTO\obj\Debug\AGENDAMENTO.csprojResolveAssemblyReference.cache
+E:\Sistemas de Informação\5º Período\Linguagem de Programação II\2º Bimestre\AGENDAMENTO(Trabalho LPII - Leitura de dados em .txt)\AGENDAMENTO\obj\Debug\AGENDAMENTO.Form1.resources
+E:\Sistemas de Informação\5º Período\Linguagem de Programação II\2º Bimestre\AGENDAMENTO(Trabalho LPII - Leitura de dados em .txt)\AGENDAMENTO\obj\Debug\AGENDAMENTO.Properties.Resources.resources
+E:\Sistemas de Informação\5º Período\Linguagem de Programação II\2º Bimestre\AGENDAMENTO(Trabalho LPII - Leitura de dados em .txt)\AGENDAMENTO\obj\Debug\AGENDAMENTO.csproj.GenerateResource.Cache
+E:\Sistemas de Informação\5º Período\Linguagem de Programação II\2º Bimestre\AGENDAMENTO(Trabalho LPII - Leitura de dados em .txt)\AGENDAMENTO\obj\Debug\AGENDAMENTO.exe
+E:\Sistemas de Informação\5º Período\Linguagem de Programação II\2º Bimestre\AGENDAMENTO(Trabalho LPII - Leitura de dados em .txt)\AGENDAMENTO\obj\Debug\AGENDAMENTO.pdb
